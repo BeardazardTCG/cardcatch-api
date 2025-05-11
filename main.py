@@ -9,7 +9,7 @@ app = FastAPI()
 DB_HOST = "dpg-d0geqv49c44c73fgt840-a.frankfurt-postgres.render.com"
 DB_NAME = "cardcatch_db"
 DB_USER = "cardcatch_db_user"
-DB_PASSWORD = "YOUR_PASSWORD_HERE"  # << REPLACE THIS!
+DB_PASSWORD = MKAxKQSwVw4PE9li5sjHD7VjQfqqCBEL
 
 # Connect to database
 def get_db_connection():
